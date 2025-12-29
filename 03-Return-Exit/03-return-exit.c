@@ -9,11 +9,10 @@ int main(void)
 {
     int result = 0;
 
-    printf("----- Start \n");
-    printf("\n");
+    printf("\n----- Start \n\n");
 
     /* 흐름 종료 */
-    // CallReturn();
+    //CallReturn();
 
     /* 프로그램 종료 */
     CallExit();
@@ -21,7 +20,7 @@ int main(void)
     /* 흐름 종료 */
     CallReturn();
 
-    printf("----- End \n");
+    printf("\n----- End \n\n");
 
     /* 정상 종료 */
     return 0;
@@ -29,12 +28,12 @@ int main(void)
 
 void CallReturn(void)
 {
-    printf("----- 흐름 종료\n");
+    printf("----- 흐름 종료\n\n");
     return;
 }
 
 void CallExit(void)
 {
-    printf("----- 프로그램 종료\n");
+    printf("----- 프로그램 종료\n\n");
     exit();
 }
