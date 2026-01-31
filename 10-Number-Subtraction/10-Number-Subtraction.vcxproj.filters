@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Number-In-Subtraction.cpp">
+    <ClCompile Include="Number-In-Subtraction.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
