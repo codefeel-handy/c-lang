@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.Safe-String-Concatenatio
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17.Safe_String_Buffer_Output", "17.Safe_String_Buffer_Output\17.Safe_String_Buffer_Output.vcxproj", "{475D872B-FDC8-49F7-BB79-EB51C06CA1B9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18-Square-and-Arithmetic-Modulo", "18-Square-and-Arithmetic-Modulo\18-Square-and-Arithmetic-Modulo.vcxproj", "{C9B63402-3AEC-4E3B-AAA4-60CB8032AF0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -251,6 +253,18 @@ Global
 		{475D872B-FDC8-49F7-BB79-EB51C06CA1B9}.Release|x64.Build.0 = Release|x64
 		{475D872B-FDC8-49F7-BB79-EB51C06CA1B9}.Release|x86.ActiveCfg = Release|Win32
 		{475D872B-FDC8-49F7-BB79-EB51C06CA1B9}.Release|x86.Build.0 = Release|Win32
+		{C9B63402-3AEC-4E3B-AAA4-60CB8032AF0C}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{C9B63402-3AEC-4E3B-AAA4-60CB8032AF0C}.Debug|Any CPU.Build.0 = Debug|x64
+		{C9B63402-3AEC-4E3B-AAA4-60CB8032AF0C}.Debug|x64.ActiveCfg = Debug|x64
+		{C9B63402-3AEC-4E3B-AAA4-60CB8032AF0C}.Debug|x64.Build.0 = Debug|x64
+		{C9B63402-3AEC-4E3B-AAA4-60CB8032AF0C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C9B63402-3AEC-4E3B-AAA4-60CB8032AF0C}.Debug|x86.Build.0 = Debug|Win32
+		{C9B63402-3AEC-4E3B-AAA4-60CB8032AF0C}.Release|Any CPU.ActiveCfg = Release|x64
+		{C9B63402-3AEC-4E3B-AAA4-60CB8032AF0C}.Release|Any CPU.Build.0 = Release|x64
+		{C9B63402-3AEC-4E3B-AAA4-60CB8032AF0C}.Release|x64.ActiveCfg = Release|x64
+		{C9B63402-3AEC-4E3B-AAA4-60CB8032AF0C}.Release|x64.Build.0 = Release|x64
+		{C9B63402-3AEC-4E3B-AAA4-60CB8032AF0C}.Release|x86.ActiveCfg = Release|Win32
+		{C9B63402-3AEC-4E3B-AAA4-60CB8032AF0C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
